@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+canvas {
+  background: #111;
+}
+
+#foter{
+  color: white;
+  text-align: center;
+}
